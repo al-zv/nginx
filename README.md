@@ -63,7 +63,7 @@ zero/php/Dockerfile - файл с настройками PHP для docker
     
 
 
-DIRECTORY STRUCTURE
+DIRECTORY STRUCTURE - нужно так сделать для файлов описания содержимого репозитория
 
     common
         config/              contains shared configurations
