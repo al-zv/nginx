@@ -33,4 +33,6 @@ zero/php/Dockerfile - файл с настройками PHP для docker
 
 Скачать с GitHub
 
-    git clone https://github.com/al-zv/zero.git
+    git clone https://github.com/al-zv/zero.git folder
+
+        folder - репозиторий, который будет создан в текущем репозитории
