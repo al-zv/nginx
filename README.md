@@ -73,6 +73,10 @@ zero/php/Dockerfile - файл с настройками PHP для docker
 
     composer -v
 
+Установка чистого скелета Advanced фреймворка Yii 2:
+
+    composer create-project --prefer-dist yiisoft/yii2-app-advanced app
+
 DIRECTORY STRUCTURE - нужно так сделать для файлов описания содержимого репозитория
 
     common
