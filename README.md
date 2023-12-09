@@ -65,6 +65,13 @@ zero/php/Dockerfile - файл с настройками PHP для docker
 
     docker-compose up -d
 
+Запуск php:
+
+    docker exec -it oop-php-1 bash
+
+Проверка установлен ли компосер в контейнере docker php:
+
+    composer -v
 
 DIRECTORY STRUCTURE - нужно так сделать для файлов описания содержимого репозитория
 
